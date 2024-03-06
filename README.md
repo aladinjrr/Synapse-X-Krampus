@@ -7,10 +7,9 @@ When building it yourself, make sure it has the bin and scripts folder included 
 
 # How to use!
 Extract the UI and scripts folder exactly into the same folder as Krampus (Screenshot)
+![image](https://i.imgur.com/NdSCEkL.png)
 Open the launch.cfg file and edit ```LOGINTOKEN``` with your token from [Krampus Dashboard](https://loader.live/dashboard)
 Then open Synapse UI WPF.exe under UI
 
 # Requirements
 [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer)
-
-![image](https://i.imgur.com/NdSCEkL.png)
